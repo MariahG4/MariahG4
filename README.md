@@ -19,6 +19,11 @@ My name is **Mariah Grade**, and I am a computer science major at UNCC concentra
 - **Software Engineering:** Testing, Deployment, Security, Containerization, DevOps, Cloud Computing, Machine Learning
 - **Web App Design/Dev:** HTML, CSS, JavaScript, DOM, Async JavaScript
 
+## Self Education
+
+- **TryHackMe:** Intro to Cybersecurity, Pre Security, Cyber Defense
+- **HackTheBox:** Incident Handling, Penetration Testing 
+
 ## 🌟Featured Projects 
 
 ### Plant Care Calendar 🌱
