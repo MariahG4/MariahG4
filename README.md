@@ -31,6 +31,11 @@ My name is **Mariah Grade**, and I am a computer science major at UNCC concentra
 **Description:** This is a program to help users keep track of the dates their plants need care.  
 **Link:** [PlantCareCalendar](https://github.com/MariahG4/ITCS-3112) 
 
+### Network Security Enhancement 
+**Description:** Creation of a VM with containers to perform a vulnerability scan and traffic analysis to detect potential
+vulnerabilities for a business. The VM is an Ubuntu on the Oracle VM VirtualBox Manager, with a Nessus
+VM and Wireshark to perform the vulnerability scans.
+
 ## 🚀Goals 
 
 - Build a network of people who are like-minded and support each other through career journeys.
